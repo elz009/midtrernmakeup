@@ -1,0 +1,7 @@
+Task 1️: Rename the "README.md" file to "README_old.md."
+Task 2️: Create a new branch named "feature-explanation" and switch to it.
+Task 3️: In the "feature-explanation" branch, create a TXT file named "Git_Revert_Explanation" and write an explanation of how the Git Revert command works. Make a commit with a clear name.
+Task 4️: Merge the "feature-explanation" branch into the main branch. Resolve any conflicts if necessary.
+Task 5️: Add the ".gitignore" file to the repository and specify the files and folders to be ignored.
+Task 6️: Create a new branch named "chapter-6-explanation" and switch to it.
+Task 7️: In the "chapter-6-explanation" branch, create a TXT file named "Commands_Explanation" and explain how the commands from chapter 6 work. Make a commit with a clear name.
